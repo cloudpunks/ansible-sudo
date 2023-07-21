@@ -1,6 +1,6 @@
 ---
 repository:
-  name: sudo
+  name: ansible-sudo
   description: Ansible role to install and configure sudo
   topics: ansible, role, ansible-role, hacktoberfest
 
